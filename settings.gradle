@@ -1,0 +1,3 @@
+include ':basemvp'
+include ':app', ':commonlist'
+rootProject.name = "CommonList"
